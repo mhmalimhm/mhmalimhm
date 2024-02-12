@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is MOHAMMADALI MOHAMMADI
 #### I am FULL STACK DEVLOPER PYTHON
-![I am FULL STACK DEVLOPER PYTHON](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am FULL STACK DEVLOPER PYTHON]
 
 
 Skills: VUE JS / REACT / JS / HTML / CSS / PYTHON / DJANGO / WORDPRESS / 
